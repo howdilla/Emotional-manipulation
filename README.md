@@ -74,7 +74,7 @@
 | GPT-4o-mini | OpenAI | `openai/gpt-4o-mini` |
 | GPT-OSS-120B | OpenAI | `openai/gpt-oss-120b:free` |
 | DeepSeek-V3.2 | DeepSeek | `deepseek/deepseek-v3.2` |
-| Gemini 2.5 Flash Lite | Google | `google/gemini-2.5-flash-lite` |
+| Gemini 2.5 | Google | `google/gemini-2.5-flash-lite` |
 | Grok 4.1 Fast | xAI | `x-ai/grok-4.1-fast` |
 
 ---
